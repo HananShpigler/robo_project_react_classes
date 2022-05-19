@@ -1,5 +1,5 @@
 # RoboFriends!
-***A simple application (for practicing new the features in React which came in the latest version) where you can look for your robot friends!***
+***A simple application (for practicing the new React features which came in the latest version) where you can look for your robot friends!***
 
 <img src="./images/1.PNG" width=400>
 <img src="./images/2.PNG" width=400>
